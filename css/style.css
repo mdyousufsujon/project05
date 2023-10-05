@@ -1,0 +1,413 @@
+body{}
+@media only screen and (min-width:320px) and (max-width:425px){
+
+}
+.allpart{
+    
+}
+.logo{
+    height: 50px;
+    width: 100px;
+}
+.logo img{
+    width: 100px;
+    height: 60px;
+    margin-top: -90px;
+   
+}
+.manubar{
+
+    margin-top: -120px;
+    
+    text-align: center;
+}
+.manubar nav{
+   background: purple;
+   height: 60px;
+}
+.manubar nav ul{
+  
+}
+.manubar nav ul li{
+    text-align: center;
+    text-transform: capitalize;
+    display: inline-block;
+    padding: 5px;
+}
+.manubar nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+.manubar nav ul li a:hover{
+    background: black;
+    color: aliceblue;
+    transition: 2s;
+}
+.banner{
+    background:url(../images/pexels-suneo-103573.jpg);
+   padding: 20px 0px;
+  display: inline-block;
+   background-size: cover;
+  
+
+}
+.content{
+    text-align: center;
+    background: rgba(44, 43, 43, 0.226);
+    width: 250px;
+    
+    box-shadow: 5px 5px black;
+   
+    
+}
+.content h1{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 10px;
+    color: rgb(240, 236, 236);
+}
+.content p{
+    text-align: justify;
+    color: aliceblue;
+}
+.content button{
+    width: 100%;
+    padding: 10px;
+    color: rgb(249, 244, 244);
+    background:purple;
+    border:none;
+    outline: none;
+    font-size: 20px;
+}
+.content button:hover{
+    background: blue;
+
+    transition: 3s;
+}
+.banner1{
+    background: url(../images/pexels-valeria-boltneva-74512.jpg);
+    padding: 20px 0px;
+  
+    background-size: cover;
+}
+.banner2{
+    background: url(../images/pexels-valeria-boltneva-101472.jpg);
+    padding: 20px 0px;
+  
+    background-size: cover;
+}
+.banner3{
+    background: url(../images/pexels-valeria-boltneva-101472\ \(1\).jpg);
+    padding: 20px 0px;
+  
+    background-size: cover;
+}
+.hader{
+background: purple;
+text-align: center;
+margin-bottom: -12px;
+}
+
+.hader h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-clip: border-box;
+    background:url(../images/96dd76d35704327ab8ddc1999e3be677.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+  
+    color: aliceblue;
+}
+.bp{
+   display: inline-block;
+    background: purple;
+    width: 100%;
+    margin-top: -60px;
+}
+.bpone{
+    width: 50%;
+    text-align: center;
+   
+}
+.bpone img{
+    width: 100%;
+}
+.bpone h1{
+    font-size: 60px;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color: aliceblue;
+    background-clip: border-box;
+    background: url(../images/96dd76d35704327ab8ddc1999e3be677.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
+.bpone p{
+    text-align: justify;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px;
+}
+.bpone button{
+    width: 150px;
+    height: 50px;
+    background: black;
+    padding: 10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.bpone button:hover{
+    background: blue;
+    transition: 2s;
+    border-radius: 10px;
+}
+.service{
+    display: inline-block;
+    background-color: purple;
+    width: 100%;
+}
+.servicepart{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+}
+.servicepart img{
+    width: 290px;
+    height: 250px;
+}
+.servicepart h1{
+    font-size: 50px;
+    color: aliceblue;
+    text-transform: capitalize;
+    padding: 10px;
+    background: url(../images/fire-hot.gif);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.servicepart p{
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+.servicepart button{
+    width: 140px;
+    height: 50px;
+    background: black;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.part{
+    background: purple;
+    padding: 10px;
+    text-align: center;
+}
+.part h1{
+    font-size: 50px;
+    padding: 10px;
+    text-transform: uppercase;
+    color: aliceblue;
+    background:url(../images/96dd76d35704327ab8ddc1999e3be677.gif);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+   
+}
+.reviwe{
+    background: purple;
+    text-align: center;
+    margin-top: -50px;
+}
+.reviwe h1{
+           text-transform: uppercase;
+           padding: 10px;
+           font-size: 55px;
+           color: aliceblue;
+           background: url(../images/96dd76d35704327ab8ddc1999e3be677.gif);
+           background-clip: border-box;
+           -webkit-background-clip: text;
+           -webkit-text-fill-color: transparent;
+         
+}
+.reviwe p{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.team{
+  display: inline-block;
+  text-align: center;
+  padding: 10px ;
+  background: purple;
+  margin-top: -10px;
+}
+.team1{
+    display: inline-block;
+   
+}
+.team1 img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+.team1 h1{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: aliceblue;
+    padding: 10px;
+}
+.team1 p{
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+.team1 button{
+    width: 150px;
+    height: 50px;
+    background: green;
+    color: aliceblue;
+    padding: 10px;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+.team1 button:hover{
+    background:linear-gradient(red,blue);
+    transition:3s;
+}
+.folwershop{
+   display: inline-block;
+    text-align: center;
+    width: 100%;
+    background: purple;
+    padding: 10px;
+   
+}
+.folwershop1{}
+.flowershop1 img{
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+
+}
+.flowershop1 h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    color: aliceblue;
+    
+}
+.flo{
+    text-align: center;
+    width: 100%;
+    background: purple;
+    padding: 10px;
+    margin-top: -50px;
+   
+}
+.flo h1{
+    text-transform: uppercase;
+   
+    font-size: 55px;
+    color: aliceblue;
+    background: url(../images/96dd76d35704327ab8ddc1999e3be677.gif);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.copy{
+ 
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    background: purple;
+    width: 100%;
+}
+.copy1{}
+.copy1 h1{
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 40px;
+}
+.copy1 p{
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+.copy1 button{
+    width: 40%;
+    padding: 10px;
+    color: aliceblue;
+    background: red;
+    box-shadow: 2px 2px solid black;
+    border-radius: 10px;
+}
+.copy1 img{
+    width: 200px;
+    height: 250px;
+}
+.hh{
+    background: purple;
+    text-align: center;
+    padding: 1px;
+    width: 100%;
+}
+.hh h1{
+ text-align: center;
+ font-size:50px;
+ text-transform:capitalize;
+ color: aliceblue;
+ background-clip:border-box;
+ background: url(../images/fire-hot.gif);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+.tt{
+    text-align: center;
+    background: purple;
+    width: 100%;
+    padding: 10px;
+    
+}
+.tt h1{
+    text-transform: uppercase;
+    color: aliceblue;
+    text-align: center;
+    font-size: 65px;
+     background-clip: border-box;
+     background: url(../images/96dd76d35704327ab8ddc1999e3be677.gif);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+.map{}
+.map iframe{
+    width: 50%;
+    height: 300px;
+}
+.last{
+    text-align: center;
+    background: purple;
+    margin-top: -60px;
+    padding: 1px;
+}
+.last h1{
+    text-align: center;
+ font-size: 70px;
+ text-transform: uppercase;
+ color: aliceblue;
+ background-clip:border-box;
+ background: url(../images/fire-hot.gif);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
